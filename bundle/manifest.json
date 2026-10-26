@@ -1,0 +1,11 @@
+{
+  "blitz_version": "1.0",
+  "generated_at": "2026-10-26T11:33:10Z",
+  "mysql_version": "8.0.46",
+  "is_mariadb": false,
+  "major_version": 8,
+  "minor_version": 0,
+  "host": "docker:blitz-demo",
+  "databases": ["shopdb","support"],
+  "files": [{"name":"catalog_db_shopdb.json","size_bytes":21676,"modified":"2026-10-26T11:33:09Z"},{"name":"catalog_db_support.json","size_bytes":6996,"modified":"2026-10-26T11:33:09Z"},{"name":"global_snapshot.json","size_bytes":148188,"modified":"2026-10-26T11:33:08Z"},{"name":"stat_db_shopdb.json","size_bytes":35563,"modified":"2026-10-26T11:33:09Z"},{"name":"stat_db_support.json","size_bytes":17116,"modified":"2026-10-26T11:33:09Z"},{"name":"schema_dump_shopdb.sql","size_bytes":9001,"modified":"2026-10-26T11:33:10Z"},{"name":"schema_dump_support.sql","size_bytes":2507,"modified":"2026-10-26T11:33:10Z"}]
+}
